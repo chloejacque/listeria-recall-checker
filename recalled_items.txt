@@ -1,5 +1,5 @@
-Chicken Curry - Centra
-Beef Lasagne - SuperValu
-Sweet and Sour Chicken - Dunnes
-Spaghetti Bolognese - Lidl
-Macaroni Cheese - Aldi
+Centra - Chicken Curry
+SuperValu - Beef Lasagne
+Dunnes - Sweet and Sour Chicken
+ALDI - Spaghetti Bolognese
+ALDI - Macaroni Cheese

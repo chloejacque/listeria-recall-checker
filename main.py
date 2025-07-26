@@ -10,32 +10,22 @@ print("============================================")
     
 
 while True:
+    print("\n🔍 What product or shop are you checking?")
     user_input = input("👉🏼 Type here ( or 'exit' to quit): ").lower()
-    print("\n🔍 What product are you checking?")
-
+    
     if user_input == "exit":
         print ("👋🏼 Stay safe! Goodbye.")
         break
 
 # Check for matches
-matches = [item for item in recalled_items if user_input in item.lower()]
-
-if matches:
-    print("⚠️ WARNING: We found the following recalled item(s) matching your search:")
-    for match in matches:
-        print(f" - {match}")
+    matches = [item for item in recalled_items if user_input in item.lower()]
+    if matches:
+        print(f"⚠️ {len(matches)} recalled item(s) found:")
+        for match in matches:
+            print(f" - {match}")
     else: 
         print ("✅ No recalled items match your search.")
-        
-    
 
-print("Type the name of a ready-made meal to see if it's been recalled.")
-
-    
-# Get user input
-user_input = input("Enter product name: ").strip()
-
-# Check if the product is in the recall list
 # Convert user input to lowercase for case-insensitive comparison
 user_input = user_input.lower()
 
@@ -45,10 +35,4 @@ lower_recalled_items = [item.lower() for item in recalled_items]
 # Now check if user input is a a partial match 
 matches = [item for item in recalled_items if user_input in item.lower()]
 
-# Show result
-if matches:
-    print("⚠️ WARNING: We found the following recalled item(s) matching your search:")
-    for match in matches:
-        print(f" - {match}")
-else: 
-    print("✅ This product does not appear on the recall list.")
+
