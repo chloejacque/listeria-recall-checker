@@ -1,5 +1,198 @@
-Centra - Chicken Curry
-SuperValu - Beef Lasagne
-Dunnes - Sweet and Sour Chicken
-ALDI - Spaghetti Bolognese
-ALDI - Macaroni Cheese
+Tesco Irish Classics Cottage Pie with Peas & Carrots Dinner
+Tesco Irish Classics Beef Dinner
+Tesco Irish Classics Bacon & Cabbage Dinner
+Tesco Irish Classics Beef Stew Dinner
+Tesco Irish Classics Chicken Curry & Rice
+Tesco Irish Classics Beef Burger Dinner
+Tesco Classic Kitchen Chicken & Ham Dinner
+Tesco Classic Kitchen Chicken / Leek & White Wine Sauce Dinner
+Tesco Meals Made Easy Cottage Pie
+Tesco Meals Made Easy Beef Lasagne
+Tesco Meals Made Easy Chicken Curry
+Tesco Meals Made Easy Chicken & Pasta Bake
+Tesco Meals Made Easy Chicken & Broccoli Potato Bake
+Tesco Meals Made Easy Carbonara Pasta Bake
+Tesco Finest Cottage Pie
+Tesco Finest Mac & Triple Cheese
+Tesco Finest Beef Lasagne
+Tesco Finest Beef Bourguignon and Mash
+Tesco Finest Spaghetti Bolognese
+Tesco Finest Spaghetti Carbonara
+Tesco Finest Chicken Korma with Fragrant Pilau Rice
+Tesco Finest Chicken Tikka Masala with Fragrant Pilau Rice
+Tesco Finest Chicken and Chorizo Paella
+Tesco Finest Chicken, Bacon & Leek Pie
+Tesco Finest Creamy Fish Pie
+Tesco Finest Beef in Black Bean Sauce & Egg Rice
+Tesco Finest Chicken Al Fredo with Linguine
+Tesco Finest Chicken Massaman with Jasmine Rice
+Tesco Finest Irish Angus Beef Meatballs with Pappardelle
+Tesco Finest Cottage Pie
+Tesco Finest Mac & Triple Cheese
+Tesco Finest Creamy Fish Pie
+Tesco Finest Creamy Mashed Potato
+Tesco Finest Potato Gratin
+Tesco Finest Three Cheese Cauliflower Bake
+Tesco Finest Goose Fat Irish Potatoes
+Tesco Finest Rainbow Root Vegetables
+Tesco Tesco Mashed Potato
+Tesco Tesco Mashed Carrot & Parsnip
+Tesco Tesco Mashed Turnip
+Tesco Tesco Cauliflower Cheese
+Tesco Tesco Chicken Tikka with Pilau Rice
+Tesco Tesco Chicken Jalfrezi with Pilau Rice
+Tesco Tesco Chicken Korma with Pilau Rice
+Tesco Tesco Tesco Tesco Butter Chicken Masala with Pilau Rice
+Chinese Style Chicken Curry with Egg Rice
+Tesco Tesco Chicken & Black Bean with Egg Rice
+Tesco Tesco Chicken Chow Mein
+Tesco Tesco Tesco Tesco Sweet & Sour Chicken with Egg Rice
+Thai Green Chicken Curry with Jasmine Rice
+Tesco Tesco Thai Red Chicken Curry with Jasmine Rice
+Tesco Tesco Tesco Tesco Coconut Chicken Curry with Jasmine Rice
+Tex Mex Chilli Beef Burrito Bowl
+Tesco Tesco Tex Mex Chicken Burrito Bowl
+Tesco Tesco Mashed Potato
+Tesco Tesco Carrot & Parsnip Mash
+Retailer Range Product name
+Supervalu Signature Taste Potato Mash
+Supervalu Signature Taste Potato Gratin
+Supervalu Supervalu Beef Lasagne
+Supervalu Supervalu Cottage Pie
+Supervalu Supervalu Chicken Pasta
+Supervalu Supervalu Chicken Curry
+Supervalu SuperValu Chicken Arrabiata
+Supervalu SuperValu Ham & Mushroom Tagliatelle
+Supervalu SuperValu Spaghetti Bolognese
+Supervalu SuperValu Spaghetti Carbonara
+Supervalu SuperValu Mac & Cheese
+Supervalu Freshly Prepared Irish Beef Dinner
+Supervalu Freshly Prepared Chicken & Stuffing Dinner
+Supervalu Freshly Prepared Salmon Dinner
+Supervalu Freshly Prepared Burger Dinner
+Supervalu Freshly Prepared Beef Lasagne
+Supervalu Freshly Prepared Cottage Pie / Cheddar Crumb
+Supervalu Freshly Prepared Carbonara Pasta Bake
+Supervalu Supervalu Freshly Prepared Freshly Prepared Chicken Curry & Rice
+Chicken Tikka & Rice
+Supervalu Freshly Prepared Beef Chilli & Rice
+Supervalu Freshly Prepared Mexican Bean Burrito Bowl
+Supervalu Supervalu Freshly Prepared Freshly Prepared Salmon Penne Pasta
+Teriyaki Beef Noodle Bowl
+Supervalu Freshly Prepared Slow Cooked Beef Ragu with Pappardelle
+Supervalu Freshly Prepared Beef Lasagne
+Supervalu Freshly Prepared Cottage Pie
+Supervalu Supervalu Freshly Prepared Freshly Prepared Chicken With Black Bean & Egg rice
+Chicken with White Wine sauce
+Supervalu Supervalu Freshly Prepared Freshly Prepared Chorizo Mac & cheese
+Korean style chicken with noodles
+Supervalu Freshly Prepared Chicken Laksa
+Supervalu Freshly Prepared Carrots & Peas
+Supervalu Freshly Prepared Green Cabbage
+Supervalu Freshly Prepared Irish Rooster Mash
+Supervalu Freshly Prepared Mashed Turnip
+Supervalu Supervalu Freshly Prepared Freshly Prepared Roasted Baby Potatoes
+Roasted Carrots with Black Pepper & Sea Salt
+Centra Centra Beef Lasagne
+Centra Centra Cottage Pie
+Centra Centra Chicken Pasta
+Centra Centra Chicken Curry
+Centra Centra Chicken Arrabiata
+Centra Centra Ham & Mushroom Tagliatelle
+Centra Centra Spaghetti Bolognese
+Centra Freshly Prepared Irish Beef Dinner
+Centra Freshly Prepared Chicken & Stuffing Dinner
+Centra Freshly Prepared Salmon Dinner
+Centra Freshly Prepared Burger Dinner
+Centra Freshly Prepared Beef Lasagne
+Centra Freshly Prepared Cottage Pie / Cheddar Crumb
+Centra Freshly Prepared Carbonara Pasta Bake
+Centra Freshly Prepared Chicken Curry & Rice
+Centra Freshly Prepared Chicken Tikka & Rice
+Centra Freshly Prepared Centra FP Mexican Bean Burrito Bowl 450g x 6
+Centra Freshly Prepared Teriyaki Beef Noodle Bowl
+Centra Freshly Prepared Slow Cooked Beef Ragu with Pappardelle
+Centra Freshly Prepared Chicken With Black Bean & Egg rice
+Centra Freshly Prepared Chicken with White Wine sauce
+Centra Centra Freshly Prepared Freshly Prepared Chorizo Mac & cheese
+Korean Style Chicken with Noodles
+Centra Freshly Prepared Chicken Laksa
+Retailer Range Product name
+Supervalu & Centra Kitchen Beef Lasagne
+Supervalu & Centra Fuel'd Foods Chicken Curry with Brown Rice
+Supervalu & Centra Fuel'd Foods Wholemeal Pasta Bolognese
+Supervalu & Centra Fuel'd Foods Chicken Tikka Masala with Brown Rice
+Supervalu & Centra Fuel'd Foods Tomato Chicken & Wholemeal Pasta
+Supervalu & Centra Fuel'd Foods Chicken & Chorizo with Baby Potatoes
+Supervalu & Centra Clean Cut Beef Stroganoff
+Supervalu & Centra Clean Cut Chicken Carbonara
+Supervalu & Centra Clean Cut Chicken Curry
+Supervalu & Centra Clean Cut Spaghetti Bolognese
+Supervalu & Centra Clean Cut Chicken Spice Bag
+Supervalu & Centra Clean Cut Thai Green Curry
+Supervalu & Centra Clean Cut Chow Mein
+Supervalu & Centra Clean Cut Chicken Chorizo Pasta
+Supervalu & Centra Clean Cut Veggie Bolognese
+Supervalu & Centra Clean Cut Beef Taco Wedges
+Supervalu & Centra Clean Cut Butter Chicken
+Supervalu & Centra Clean Cut Cottage Pie
+Supervalu & Centra Happy Pear Veggie Lasagne
+Supervalu & Centra Happy Pear Shepherdless Pie
+Supervalu & Centra Happy Pear Cannelloni
+Supervalu & Centra Happy Pear Chickpea Curry
+Supervalu & Centra Happy Pear Tasty Thai Noodles
+Supervalu & Centra Happy Pear Sticky Soy Noodles
+Supervalu & Centra Happy Pear Mexican Bean Burrito Bowl
+Supervalu & Centra Happy Pear Spinach & Mushroom Pasta
+Supervalu & Centra Food To Go Beef Lasagne
+Supervalu & Centra Food To Go Chicken Curry
+Supervalu & Centra Food To Go Beef Casserole
+Supervalu & Centra Food To Go Chilli Beef
+Supervalu & Centra Food To Go Chicken Tikka
+Supervalu & Centra Food To Go Chicken Pasta Bake
+Supervalu & Centra Food To Go Beef Stroganoff
+Supervalu & Centra Food To Go Carbonara Pasta Bake
+Supervalu & Centra Food To Go Bolognese with Pancetta
+Supervalu & Centra Food To Go Mash Potato
+Supervalu & Centra Food To Go Potato Gratin
+Supervalu & Centra Food To Go Basmati Rice
+Supervalu & Centra Food To Go Roasted Baby Potatoes
+Supervalu & Centra Food To Go Roast Root Veg
+Supervalu & Centra Food To Go Green Cabbage
+Supervalu & Centra Food To Go Baton Carrots
+Supervalu & Centra Food To Go Carrots & Peas
+Supervalu & Centra Food To Go Mash Turnip
+Supervalu & Centra Food To Go Potato Wedges
+Supervalu & Centra Food To Go Pilau Rice
+Retailer Range Product name
+Aldi Specially Selected Spaghetti Bolognese
+Aldi Specially Selected Ham & Mushroom Tagliatelle
+Aldi Inspired Cuisine Irish Cottage Pie
+Aldi Inspired Cuisine Rustic & Hearty Beef Lasagne
+Aldi Inspired Cuisine Chip Shop Chicken Curry
+Aldi Inspired Cuisine Chicken & Broccoli Bake
+Aldi Inspired Cuisine Rustic & Hearty Bolognese Pasta Bake
+Aldi Inspired Cuisine Rustic & Hearty Chicken & Tomato Pasta Bake
+Aldi Inspired Cuisine Seafood Pie
+Aldi Inspired Cuisine Chicken Pie
+various From the Farm Chicken Curry
+various From the Farm Beef Lasagne
+various From the Farm Basmati Rice
+various From the Farm Chilli Beef
+various The Happy Pear Shepherdless Pie
+various The Happy Pear Creamy Veggie Lasagne
+various The Happy Pear Chickpea Curry
+various Good Food Locally Sourced Turkey & Ham Dinner
+various Good Food Locally Sourced Chicken & Stuffing Dinner
+various Good Food Locally Sourced Spaghetti Carbonara
+various Good Food Locally Sourced Chicken Arrabiata
+various Good Food Locally Sourced Spaghetti Bolognese
+various Good Food Locally Sourced Beef Dinner
+various Clean Cut Beef Stroganoff with Long Grain Rice
+various Clean Cut Chicken & Chorizo Paella with Arborio Rice
+various Clean Cut Chicken Carbonara with Tagliatelle Pasta
+various Clean Cut Chicken Curry with Long Grain Rice
+various Clean Cut Spaghetti Bolognese with Irish Beef
+various Clean Cut Chicken Spice Box with Sweet Potato
+various Clean Cut Thai Green Curry with Coconut Basmati Rice
+various Clean Cut Turkey Meatballs & Spaghetti
