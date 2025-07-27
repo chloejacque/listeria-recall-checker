@@ -31,3 +31,11 @@ This project was inspired by the current Listeria outbreak in Ireland 2025.
 After posting publicly about the outbreak and receiving a lot of concern from others, I wanted to create a useful tool to help others check if food was safe to consume.
 This is my first Hackathon, and I am proud to have created something useful to others.
 Thank you to the Boot.dev community for giving me this opportunity and motivating me to start my first project as a newbie in the software development community❤️
+
+## 🔒 License
+
+This project is licensed under the GNU General Public License v3.0.  
+You may not use this code in proprietary or closed-source projects.
+
+[Read the full license here](LICENSE)
+
